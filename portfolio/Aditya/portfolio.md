@@ -1,1 +1,1 @@
-Portfolio Link: [text](file:///Users/adityagarariya/Desktop/DVA_portfolio/index.html)
+Portfolio Link: [Aditya_portfolio](https://garariya.github.io/DVA_portfolio/)
